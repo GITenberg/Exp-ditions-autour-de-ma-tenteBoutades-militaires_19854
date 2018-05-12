@@ -1,0 +1,30 @@
+_repo: Exp-ditions-autour-de-ma-tenteBoutades-militaires_19854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Des Ecores, Ch.
+    aliases:
+    - Des Écorres, Ch.
+    - Des Ecorres, Ch.
+    birthdate: 1852
+    deathdate: 1905
+    gutenberg_agent_id: '8921'
+    url: http://www.gutenberg.org/2009/agents/8921
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19854'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée -- Military life'
+- !lcc 'U'
+title: 'Expéditions autour de ma tente: Boutades militaires'
+url: http://www.gutenberg.org/ebooks/19854
